@@ -1,0 +1,15 @@
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\04_escape_character\bin\Debug\net8.0\04_escape_character.exe
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\04_escape_character\bin\Debug\net8.0\04_escape_character.deps.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\04_escape_character\bin\Debug\net8.0\04_escape_character.runtimeconfig.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\04_escape_character\bin\Debug\net8.0\04_escape_character.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\04_escape_character\bin\Debug\net8.0\04_escape_character.pdb
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\04_escape_character\obj\Debug\net8.0\04_escape_character.GeneratedMSBuildEditorConfig.editorconfig
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\04_escape_character\obj\Debug\net8.0\04_escape_character.AssemblyInfoInputs.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\04_escape_character\obj\Debug\net8.0\04_escape_character.AssemblyInfo.cs
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\04_escape_character\obj\Debug\net8.0\04_escape_character.csproj.CoreCompileInputs.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\04_escape_character\obj\Debug\net8.0\04_escape_character.sourcelink.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\04_escape_character\obj\Debug\net8.0\04_escape_character.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\04_escape_character\obj\Debug\net8.0\refint\04_escape_character.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\04_escape_character\obj\Debug\net8.0\04_escape_character.pdb
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\04_escape_character\obj\Debug\net8.0\04_escape_character.genruntimeconfig.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\04_escape_character\obj\Debug\net8.0\ref\04_escape_character.dll
