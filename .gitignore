@@ -98,3 +98,4 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 02_unity_engine/1_unity_introduction/UnityIntroduction/.idea
+02_unity_engine/3_unity_core/UGUI/.idea
