@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("07_arithmetic_operator")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("10_logical_operator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8325470d682124e5c7f339129402850a5affdf28")]
-[assembly: System.Reflection.AssemblyProductAttribute("07_arithmetic_operator")]
-[assembly: System.Reflection.AssemblyTitleAttribute("07_arithmetic_operator")]
+[assembly: System.Reflection.AssemblyProductAttribute("10_logical_operator")]
+[assembly: System.Reflection.AssemblyTitleAttribute("10_logical_operator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
