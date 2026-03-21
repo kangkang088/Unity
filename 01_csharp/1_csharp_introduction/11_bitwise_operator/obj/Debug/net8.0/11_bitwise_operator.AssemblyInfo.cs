@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("06_exception_handing")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("11_bitwise_operator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61d389657ed3b081f372facb997ad78b725ff65b")]
-[assembly: System.Reflection.AssemblyProductAttribute("06_exception_handing")]
-[assembly: System.Reflection.AssemblyTitleAttribute("06_exception_handing")]
+[assembly: System.Reflection.AssemblyProductAttribute("11_bitwise_operator")]
+[assembly: System.Reflection.AssemblyTitleAttribute("11_bitwise_operator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
