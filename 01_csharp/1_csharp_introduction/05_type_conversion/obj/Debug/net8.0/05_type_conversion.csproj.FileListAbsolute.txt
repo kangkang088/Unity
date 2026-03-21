@@ -1,0 +1,15 @@
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\05_type_conversion\bin\Debug\net8.0\05_type_conversion.exe
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\05_type_conversion\bin\Debug\net8.0\05_type_conversion.deps.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\05_type_conversion\bin\Debug\net8.0\05_type_conversion.runtimeconfig.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\05_type_conversion\bin\Debug\net8.0\05_type_conversion.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\05_type_conversion\bin\Debug\net8.0\05_type_conversion.pdb
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\05_type_conversion\obj\Debug\net8.0\05_type_conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\05_type_conversion\obj\Debug\net8.0\05_type_conversion.AssemblyInfoInputs.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\05_type_conversion\obj\Debug\net8.0\05_type_conversion.AssemblyInfo.cs
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\05_type_conversion\obj\Debug\net8.0\05_type_conversion.csproj.CoreCompileInputs.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\05_type_conversion\obj\Debug\net8.0\05_type_conversion.sourcelink.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\05_type_conversion\obj\Debug\net8.0\05_type_conversion.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\05_type_conversion\obj\Debug\net8.0\refint\05_type_conversion.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\05_type_conversion\obj\Debug\net8.0\05_type_conversion.pdb
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\05_type_conversion\obj\Debug\net8.0\05_type_conversion.genruntimeconfig.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\05_type_conversion\obj\Debug\net8.0\ref\05_type_conversion.dll
