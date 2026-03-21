@@ -1,12 +1,10 @@
-﻿namespace _14_loop_statement
+﻿namespace _15_practical_exercise
 {
     internal class Program
     {
-        private static void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-
-            // while for
         }
     }
 }

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("02_variable")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("15_practical_exercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f33cd38c81c13a08a86a53a8603c1951b3b24dc")]
-[assembly: System.Reflection.AssemblyProductAttribute("02_variable")]
-[assembly: System.Reflection.AssemblyTitleAttribute("02_variable")]
+[assembly: System.Reflection.AssemblyProductAttribute("15_practical_exercise")]
+[assembly: System.Reflection.AssemblyTitleAttribute("15_practical_exercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
