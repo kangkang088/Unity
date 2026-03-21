@@ -1,0 +1,15 @@
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\09_conditional_operator\bin\Debug\net8.0\09_conditional_operator.exe
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\09_conditional_operator\bin\Debug\net8.0\09_conditional_operator.deps.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\09_conditional_operator\bin\Debug\net8.0\09_conditional_operator.runtimeconfig.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\09_conditional_operator\bin\Debug\net8.0\09_conditional_operator.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\09_conditional_operator\bin\Debug\net8.0\09_conditional_operator.pdb
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\09_conditional_operator\obj\Debug\net8.0\09_conditional_operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\09_conditional_operator\obj\Debug\net8.0\09_conditional_operator.AssemblyInfoInputs.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\09_conditional_operator\obj\Debug\net8.0\09_conditional_operator.AssemblyInfo.cs
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\09_conditional_operator\obj\Debug\net8.0\09_conditional_operator.csproj.CoreCompileInputs.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\09_conditional_operator\obj\Debug\net8.0\09_conditional_operator.sourcelink.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\09_conditional_operator\obj\Debug\net8.0\09_conditional_operator.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\09_conditional_operator\obj\Debug\net8.0\refint\09_conditional_operator.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\09_conditional_operator\obj\Debug\net8.0\09_conditional_operator.pdb
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\09_conditional_operator\obj\Debug\net8.0\09_conditional_operator.genruntimeconfig.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\09_conditional_operator\obj\Debug\net8.0\ref\09_conditional_operator.dll

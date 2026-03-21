@@ -1,0 +1,15 @@
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\12_ternary_operator\bin\Debug\net8.0\12_ternary_operator.exe
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\12_ternary_operator\bin\Debug\net8.0\12_ternary_operator.deps.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\12_ternary_operator\bin\Debug\net8.0\12_ternary_operator.runtimeconfig.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\12_ternary_operator\bin\Debug\net8.0\12_ternary_operator.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\12_ternary_operator\bin\Debug\net8.0\12_ternary_operator.pdb
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\12_ternary_operator\obj\Debug\net8.0\12_ternary_operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\12_ternary_operator\obj\Debug\net8.0\12_ternary_operator.AssemblyInfoInputs.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\12_ternary_operator\obj\Debug\net8.0\12_ternary_operator.AssemblyInfo.cs
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\12_ternary_operator\obj\Debug\net8.0\12_ternary_operator.csproj.CoreCompileInputs.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\12_ternary_operator\obj\Debug\net8.0\12_ternary_operator.sourcelink.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\12_ternary_operator\obj\Debug\net8.0\12_ternary_operator.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\12_ternary_operator\obj\Debug\net8.0\refint\12_ternary_operator.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\12_ternary_operator\obj\Debug\net8.0\12_ternary_operator.pdb
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\12_ternary_operator\obj\Debug\net8.0\12_ternary_operator.genruntimeconfig.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\12_ternary_operator\obj\Debug\net8.0\ref\12_ternary_operator.dll

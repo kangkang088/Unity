@@ -1,0 +1,15 @@
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\03_const\bin\Debug\net8.0\03_const.exe
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\03_const\bin\Debug\net8.0\03_const.deps.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\03_const\bin\Debug\net8.0\03_const.runtimeconfig.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\03_const\bin\Debug\net8.0\03_const.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\03_const\bin\Debug\net8.0\03_const.pdb
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\03_const\obj\Debug\net8.0\03_const.GeneratedMSBuildEditorConfig.editorconfig
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\03_const\obj\Debug\net8.0\03_const.AssemblyInfoInputs.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\03_const\obj\Debug\net8.0\03_const.AssemblyInfo.cs
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\03_const\obj\Debug\net8.0\03_const.csproj.CoreCompileInputs.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\03_const\obj\Debug\net8.0\03_const.sourcelink.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\03_const\obj\Debug\net8.0\03_const.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\03_const\obj\Debug\net8.0\refint\03_const.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\03_const\obj\Debug\net8.0\03_const.pdb
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\03_const\obj\Debug\net8.0\03_const.genruntimeconfig.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\03_const\obj\Debug\net8.0\ref\03_const.dll
