@@ -1,0 +1,15 @@
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\06_exception_handing\bin\Debug\net8.0\06_exception_handing.exe
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\06_exception_handing\bin\Debug\net8.0\06_exception_handing.deps.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\06_exception_handing\bin\Debug\net8.0\06_exception_handing.runtimeconfig.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\06_exception_handing\bin\Debug\net8.0\06_exception_handing.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\06_exception_handing\bin\Debug\net8.0\06_exception_handing.pdb
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\06_exception_handing\obj\Debug\net8.0\06_exception_handing.GeneratedMSBuildEditorConfig.editorconfig
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\06_exception_handing\obj\Debug\net8.0\06_exception_handing.AssemblyInfoInputs.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\06_exception_handing\obj\Debug\net8.0\06_exception_handing.AssemblyInfo.cs
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\06_exception_handing\obj\Debug\net8.0\06_exception_handing.csproj.CoreCompileInputs.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\06_exception_handing\obj\Debug\net8.0\06_exception_handing.sourcelink.json
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\06_exception_handing\obj\Debug\net8.0\06_exception_handing.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\06_exception_handing\obj\Debug\net8.0\refint\06_exception_handing.dll
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\06_exception_handing\obj\Debug\net8.0\06_exception_handing.pdb
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\06_exception_handing\obj\Debug\net8.0\06_exception_handing.genruntimeconfig.cache
+D:\1Learn\Unity\01_csharp\1_csharp_introduction\06_exception_handing\obj\Debug\net8.0\ref\06_exception_handing.dll
