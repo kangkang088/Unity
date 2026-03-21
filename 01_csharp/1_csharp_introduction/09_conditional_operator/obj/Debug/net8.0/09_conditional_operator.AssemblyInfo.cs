@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("05_type_conversion")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("09_conditional_operator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3d26a8dc769abc5a004b59e981bbad951271d40")]
-[assembly: System.Reflection.AssemblyProductAttribute("05_type_conversion")]
-[assembly: System.Reflection.AssemblyTitleAttribute("05_type_conversion")]
+[assembly: System.Reflection.AssemblyProductAttribute("09_conditional_operator")]
+[assembly: System.Reflection.AssemblyTitleAttribute("09_conditional_operator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
