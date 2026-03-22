@@ -184,21 +184,241 @@ MonoBehaviour:
       m_Flags: 0
     - m_Name: 
       m_Id: a3aef506-db96-4d3f-8dcd-ebe43ee74bbc
-      m_Path: <Keyboard>/a
+      m_Path: <Keyboard>/x
       m_Interactions: 
       m_Processors: 
       m_Groups: 
       m_Action: Move
       m_Flags: 0
     m_Flags: 0
-  fire:
-    m_Name: Fire
+  axis:
+    m_Name: Axis
     m_Type: 0
     m_ExpectedControlType: 
-    m_Id: 14911b09-953a-4465-a27f-d2a4cbc9a16c
+    m_Id: 70dcd128-c2ea-43ec-a078-d955b12142d7
     m_Processors: 
     m_Interactions: 
-    m_SingletonActionBindings: []
+    m_SingletonActionBindings:
+    - m_Name: 1D Axis
+      m_Id: 333a3fec-e7c9-42e0-8082-5a01a22f8d2a
+      m_Path: 1DAxis
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Axis
+      m_Flags: 4
+    - m_Name: negative
+      m_Id: 2de63ca0-08bb-43c3-bd6e-0ba4cab836c2
+      m_Path: <Keyboard>/s
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Axis
+      m_Flags: 8
+    - m_Name: positive
+      m_Id: 8d03a9b3-ce12-44f1-a850-12f3bfc32aaa
+      m_Path: <Keyboard>/w
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Axis
+      m_Flags: 8
+    m_Flags: 0
+  axis_2d:
+    m_Name: Axis_2d
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: db907c65-6288-44c8-bfca-0b02dddf2413
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 2D Vector
+      m_Id: 331d6d81-3538-4ff7-ae4c-d48a7292ee1a
+      m_Path: 2DVector
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Axis_2d
+      m_Flags: 4
+    - m_Name: up
+      m_Id: 1b66eb69-3dde-4b42-9f5c-783bf68ef05d
+      m_Path: <Keyboard>/upArrow
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Axis_2d
+      m_Flags: 8
+    - m_Name: down
+      m_Id: bd0583a8-8728-4eca-8f3f-49fde98ceb97
+      m_Path: <Keyboard>/downArrow
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Axis_2d
+      m_Flags: 8
+    - m_Name: left
+      m_Id: 59079876-c76c-40cc-98b6-55710204d167
+      m_Path: <Keyboard>/leftArrow
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Axis_2d
+      m_Flags: 8
+    - m_Name: right
+      m_Id: 5fdd5fa7-4c3b-41bb-80bc-203d3df10432
+      m_Path: <Keyboard>/rightArrow
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Axis_2d
+      m_Flags: 8
+    - m_Name: 
+      m_Id: e2388ff5-f352-47d9-b46f-aeea78748277
+      m_Path: <Gamepad>/rightStick
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Axis_2d
+      m_Flags: 0
+    m_Flags: 0
+  axis_3d:
+    m_Name: Axis_3d
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: a18fa1f4-7c9b-486e-815f-e4fbacbd2c94
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 3D Vector
+      m_Id: 5b04cc8d-2dc3-4e01-ad67-4a1f0a2d127c
+      m_Path: 3DVector
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Axis_3d
+      m_Flags: 4
+    - m_Name: up
+      m_Id: 07985955-dd9c-4ede-a017-56cb0d5290c2
+      m_Path: <Keyboard>/w
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Axis_3d
+      m_Flags: 8
+    - m_Name: down
+      m_Id: 0a76f0d9-1546-4106-9dfd-63ad69f85355
+      m_Path: <Keyboard>/s
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Axis_3d
+      m_Flags: 8
+    - m_Name: left
+      m_Id: c803b204-21b8-47c1-8fd7-be381f13216e
+      m_Path: <Keyboard>/a
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Axis_3d
+      m_Flags: 8
+    - m_Name: right
+      m_Id: fb7d3af7-7254-4ff7-b6c0-4551ccf59363
+      m_Path: <Keyboard>/d
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Axis_3d
+      m_Flags: 8
+    - m_Name: forward
+      m_Id: 90819ff0-6fd1-469b-97dd-8bbae502eff1
+      m_Path: <Keyboard>/upArrow
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Axis_3d
+      m_Flags: 8
+    - m_Name: backward
+      m_Id: 72c8e578-d619-4f80-b3e5-236a42205f63
+      m_Path: <Keyboard>/downArrow
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Axis_3d
+      m_Flags: 8
+    m_Flags: 0
+  double_button:
+    m_Name: Double_button
+    m_Type: 1
+    m_ExpectedControlType: Button
+    m_Id: f26f2403-2c28-44f4-aad2-2f1573e35eff
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: One Modifier
+      m_Id: 8915b4dc-89d7-4f88-912c-5e98a52b0bdc
+      m_Path: OneModifier
+      m_Interactions: Hold
+      m_Processors: 
+      m_Groups: 
+      m_Action: Double_button
+      m_Flags: 4
+    - m_Name: modifier
+      m_Id: fc017251-be02-4c2f-9884-9cc322559a55
+      m_Path: <Keyboard>/shift
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Double_button
+      m_Flags: 8
+    - m_Name: binding
+      m_Id: 9b65595d-c7fc-494b-87ab-02f0a78e9c7f
+      m_Path: <Keyboard>/p
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Double_button
+      m_Flags: 8
+    m_Flags: 0
+  three_button:
+    m_Name: Three_button
+    m_Type: 1
+    m_ExpectedControlType: Button
+    m_Id: ebf9ad06-33eb-481c-be36-bec32f427d90
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: Two Modifiers
+      m_Id: 14ae82c0-3d5c-466a-b316-971578954d73
+      m_Path: TwoModifiers
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Three_button
+      m_Flags: 4
+    - m_Name: modifier1
+      m_Id: b3ac7781-6298-46e7-af27-2b0450add9ed
+      m_Path: <Keyboard>/ctrl
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Three_button
+      m_Flags: 8
+    - m_Name: modifier2
+      m_Id: a867cde8-9e52-43f0-b986-4906c02ded1c
+      m_Path: <Keyboard>/shift
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Three_button
+      m_Flags: 8
+    - m_Name: binding
+      m_Id: 2df9783f-7647-4266-a0ba-a06baa9cf3c5
+      m_Path: <Keyboard>/f
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Three_button
+      m_Flags: 8
     m_Flags: 0
 --- !u!1 &1024575878
 GameObject:
