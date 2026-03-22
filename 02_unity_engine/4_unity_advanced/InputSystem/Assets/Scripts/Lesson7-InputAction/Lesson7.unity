@@ -168,12 +168,28 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   move:
     m_Name: Move
-    m_Type: 0
-    m_ExpectedControlType: 
+    m_Type: 1
+    m_ExpectedControlType: Button
     m_Id: b6d34380-afd2-4c91-8b5d-aaa8995a0f54
     m_Processors: 
     m_Interactions: 
-    m_SingletonActionBindings: []
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: 00d1d971-36a3-4db1-903d-6cb58ffcd480
+      m_Path: <Mouse>/leftButton
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Move
+      m_Flags: 0
+    - m_Name: 
+      m_Id: a3aef506-db96-4d3f-8dcd-ebe43ee74bbc
+      m_Path: <Keyboard>/a
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Move
+      m_Flags: 0
     m_Flags: 0
   fire:
     m_Name: Fire
