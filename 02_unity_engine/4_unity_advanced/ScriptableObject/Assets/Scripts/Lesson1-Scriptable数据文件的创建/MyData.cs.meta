@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e92eb8a9d061434b98631a5cebf0473
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab: {fileID: 5627217662648296436, guid: b3c5031f79d5ddf429e045886ae77b9d, type: 3}
+  - material: {fileID: 2100000, guid: b926ca01b31887244b6190b83738a72d, type: 2}
+  - audioClip: {fileID: 8300000, guid: c1fbdc0e104cf8540bffbda2a0b8c78e, type: 3}
+  - videoClip: {fileID: 32900000, guid: b70d36550d9f28644a46400fbb493763, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
