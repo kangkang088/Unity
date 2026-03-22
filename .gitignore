@@ -100,3 +100,4 @@ InitTestScene*.unity*
 02_unity_engine/1_unity_introduction/UnityIntroduction/.idea
 02_unity_engine/3_unity_core/UGUI/.idea
 02_unity_engine/4_unity_advanced/ScriptableObject/.idea
+02_unity_engine/4_unity_advanced/InputSystem/.vscode
