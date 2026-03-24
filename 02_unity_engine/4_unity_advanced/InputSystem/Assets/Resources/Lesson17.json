@@ -1,0 +1,118 @@
+﻿{
+  "name": "Lesson17",
+  "maps": [
+    {
+      "name": "Player",
+      "id": "dbee9840-bba2-4add-97d4-ba20871905d6",
+      "actions": [
+        {
+          "name": "Move",
+          "type": "Value",
+          "id": "a0097f4f-dfa4-4a4f-8b42-50b76c3be068",
+          "expectedControlType": "",
+          "processors": "",
+          "interactions": "",
+          "initialStateCheck": true
+        },
+        {
+          "name": "Jump",
+          "type": "Button",
+          "id": "dd8fdc70-ca3c-47a1-9966-a1f30370f4c9",
+          "expectedControlType": "",
+          "processors": "",
+          "interactions": "",
+          "initialStateCheck": false
+        },
+        {
+          "name": "Fire",
+          "type": "Button",
+          "id": "5aa34a68-98b2-48e3-a28f-c2178bf9c48d",
+          "expectedControlType": "",
+          "processors": "",
+          "interactions": "",
+          "initialStateCheck": false
+        }
+      ],
+      "bindings": [
+        {
+          "name": "2D Vector",
+          "id": "df6b5ea7-7ade-49de-a716-e6d6b263081d",
+          "path": "2DVector",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Move",
+          "isComposite": true,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "up",
+          "id": "c6b0acc5-9448-4b49-bb9a-c40afdf90762",
+          "path": "<up>",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Move",
+          "isComposite": false,
+          "isPartOfComposite": true
+        },
+        {
+          "name": "down",
+          "id": "bdd6ea78-2158-4474-b19e-23e04b43587a",
+          "path": "<down>",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Move",
+          "isComposite": false,
+          "isPartOfComposite": true
+        },
+        {
+          "name": "left",
+          "id": "b66f3d5f-c9db-44e4-8f06-37216613e0ab",
+          "path": "<left>",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Move",
+          "isComposite": false,
+          "isPartOfComposite": true
+        },
+        {
+          "name": "right",
+          "id": "18bacc5b-4b2a-4dfc-88f6-7b134ee143ae",
+          "path": "<right>",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Move",
+          "isComposite": false,
+          "isPartOfComposite": true
+        },
+        {
+          "name": "",
+          "id": "be235c79-a53a-442f-b80e-98d538a4640b",
+          "path": "<jump>",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Jump",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "e3e76943-b98b-45fd-8b56-7e87bcd6d92a",
+          "path": "<fire>",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Fire",
+          "isComposite": false,
+          "isPartOfComposite": false
+        }
+      ]
+    }
+  ],
+  "controlSchemes": []
+}
