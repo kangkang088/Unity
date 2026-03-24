@@ -31,9 +31,11 @@ namespace Z_Exercise.Lesson17_改键联系1_记录改键信息
         
         private BTN_TYPE nowType;
 
+        public PlayerLesson17 PlayerLesson17;
+
         private void Start()
         {
-            inputInfo = new InputInfo();
+            inputInfo = DataManager.Instance.InputInfo;
             UpdateButtonInfo();
             
             btnUp.onClick.AddListener(() =>
@@ -99,6 +101,8 @@ namespace Z_Exercise.Lesson17_改键联系1_记录改键信息
             }
 
             UpdateButtonInfo();
+            
+            PlayerLesson17.ChangeInput();
         }
 
         private void UpdateButtonInfo()
