@@ -9,7 +9,9 @@ public class MP_RolePanel : BasePanel
     {
         UpdateInfo(PlayerModel.Data);
 
-        PlayerModel.Data.AddEventListener(UpdateInfo);
+        // PlayerModel.Data.AddEventListener(UpdateInfo);
+
+        EventCenter.GetInstance().AddEventListener<PlayerModel>("玩家数据", UpdateInfo);
     }
 
     protected override void OnClick(string btnName)
@@ -28,7 +30,7 @@ public class MP_RolePanel : BasePanel
         }
     }
 
-    public void UpdateInfo(PlayerModel playerModel)
+    private void UpdateInfo(PlayerModel playerModel)
     {
         GetControl<Text>("txtLev").text = "LV." + playerModel.Level;
         GetControl<Text>("txtHp").text = playerModel.HP.ToString();
@@ -41,6 +43,8 @@ public class MP_RolePanel : BasePanel
 
     private void OnDestroy()
     {
-        PlayerModel.Data.RemoveEventListerner(UpdateInfo);
+        // PlayerModel.Data.RemoveEventListerner(UpdateInfo);
+        
+        EventCenter.GetInstance().RemoveEventListener<PlayerModel>("玩家数据",UpdateInfo);
     }
 }

@@ -9,7 +9,10 @@ public class MP_MainPanel : BasePanel
     {
         UpdateInfo(PlayerModel.Data);
 
-        PlayerModel.Data.AddEventListener(UpdateInfo);
+        // PlayerModel.Data.AddEventListener(UpdateInfo);
+
+        //MVE
+        EventCenter.GetInstance().AddEventListener<PlayerModel>("玩家数据", UpdateInfo);
     }
 
     protected override void OnClick(string btnName)
@@ -24,7 +27,7 @@ public class MP_MainPanel : BasePanel
         }
     }
 
-    public void UpdateInfo(PlayerModel playerModel)
+    private void UpdateInfo(PlayerModel playerModel)
     {
         GetControl<Text>("txtName").text = playerModel.PlayerName;
         GetControl<Text>("txtLev").text = "LV." + playerModel.Level;
@@ -35,6 +38,8 @@ public class MP_MainPanel : BasePanel
 
     private void OnDestroy()
     {
-        PlayerModel.Data.RemoveEventListerner(UpdateInfo);
+        // PlayerModel.Data.RemoveEventListerner(UpdateInfo);
+
+        EventCenter.GetInstance().RemoveEventListener<PlayerModel>("玩家数据", UpdateInfo);
     }
 }

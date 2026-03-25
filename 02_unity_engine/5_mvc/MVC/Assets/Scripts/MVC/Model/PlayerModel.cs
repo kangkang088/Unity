@@ -6,57 +6,79 @@ public class PlayerModel
     private string playerName;
 
     public string PlayerName
-    { get { return playerName; } }
+    {
+        get { return playerName; }
+    }
 
     private int level;
 
     public int Level
-    { get { return level; } }
+    {
+        get { return level; }
+    }
 
     private int gold;
 
     public int Gold
-    { get { return gold; } }
+    {
+        get { return gold; }
+    }
 
     private int diamond;
 
     public int Diamond
-    { get { return diamond; } }
+    {
+        get { return diamond; }
+    }
 
     private int power;
 
     public int Power
-    { get { return power; } }
+    {
+        get { return power; }
+    }
 
     private int hp;
 
     public int HP
-    { get { return hp; } }
+    {
+        get { return hp; }
+    }
 
     private int atk;
 
     public int Atk
-    { get { return atk; } }
+    {
+        get { return atk; }
+    }
 
     private int def;
 
     public int Def
-    { get { return def; } }
+    {
+        get { return def; }
+    }
 
     private int crit;
 
     public int Crit
-    { get { return crit; } }
+    {
+        get { return crit; }
+    }
 
     private int miss;
 
     public int Miss
-    { get { return miss; } }
+    {
+        get { return miss; }
+    }
 
     private int lucky;
 
     public int Lucky
-    { get { return lucky; } }
+    {
+        get { return lucky; }
+    }
 
     private event UnityAction<PlayerModel> UpdateInfoEvent;
 
@@ -76,7 +98,7 @@ public class PlayerModel
         }
     }
 
-    public void Init()
+    private void Init()
     {
         playerName = PlayerPrefs.GetString("PlayerName", "Player1");
         level = PlayerPrefs.GetInt("PlayerLevel", 1);
@@ -105,7 +127,7 @@ public class PlayerModel
         SaveData();
     }
 
-    public void SaveData()
+    private void SaveData()
     {
         PlayerPrefs.SetString("PlayerName", playerName);
         PlayerPrefs.SetInt("PlayerGold", gold);
@@ -139,5 +161,8 @@ public class PlayerModel
         {
             UpdateInfoEvent.Invoke(this);
         }
+
+        // MVE
+        EventCenter.GetInstance().EventTrigger<PlayerModel>("玩家数据", this);
     }
 }
