@@ -1858,7 +1858,7 @@ GameObject:
   - component: {fileID: 5583260216246271589}
   - component: {fileID: 5583260216246271591}
   - component: {fileID: 5583260216246271588}
-  - component: {fileID: -781763132417302493}
+  - component: {fileID: 8839750208907616466}
   m_Layer: 5
   m_Name: RolePanel
   m_TagString: Untagged
@@ -1926,7 +1926,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &-781763132417302493
+--- !u!114 &8839750208907616466
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1935,9 +1935,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 5583260216246271586}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d3a8f78bdd6d1cd4e9659237a44b164c, type: 3}
+  m_Script: {fileID: 11500000, guid: 8b17935f10f0458297f47893539edff8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  btnLevelUp: {fileID: 73311571182045304}
+  btnClose: {fileID: 7568852912905617152}
+  textLevel: {fileID: 5583260216536511041}
+  textHp: {fileID: 5583260215839701296}
+  textAtk: {fileID: 5583260215822346989}
+  textDef: {fileID: 5583260215673016025}
+  textCrit: {fileID: 5583260216887395164}
+  textMiss: {fileID: 5583260215448354950}
+  textLucky: {fileID: 5583260216022871860}
 --- !u!1 &5583260216322491389
 GameObject:
   m_ObjectHideFlags: 0

@@ -557,7 +557,7 @@ GameObject:
   - component: {fileID: 1161290427554659403}
   - component: {fileID: 1161290427554659413}
   - component: {fileID: 1161290427554659412}
-  - component: {fileID: 4567126252882162957}
+  - component: {fileID: -4033429372250670545}
   m_Layer: 5
   m_Name: MainPanel
   m_TagString: Untagged
@@ -626,7 +626,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &4567126252882162957
+--- !u!114 &-4033429372250670545
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -635,9 +635,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 1161290427554659402}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 681805675fcc7614bad5ba6ae394cbb6, type: 3}
+  m_Script: {fileID: 11500000, guid: d9f59be8465e49ac9430a83b577fbbff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  btnRole: {fileID: 1161290427563017655}
+  btnSkill: {fileID: 1161290426870451279}
+  textName: {fileID: 1161290428230174371}
+  textLevel: {fileID: 1161290428102988170}
+  textGold: {fileID: 1161290426745931744}
+  textDiamond: {fileID: 1161290426649783670}
+  textPower: {fileID: 1161290426721801018}
 --- !u!1 &1161290427563017653
 GameObject:
   m_ObjectHideFlags: 0

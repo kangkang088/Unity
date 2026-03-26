@@ -31,5 +31,12 @@ namespace PureMVCCustom.View
                     break;
             }
         }
+
+        public void SetView(NewRoleView newRoleView)
+        {
+            ViewComponent = newRoleView;
+            newRoleView.btnClose.onClick.AddListener(() => { SendNotification(PureNotification.HIDE_PANEL, this); });
+            newRoleView.btnLevelUp.onClick.AddListener(() => { SendNotification(PureNotification.LEVEL_UP); });
+        }
     }
 }

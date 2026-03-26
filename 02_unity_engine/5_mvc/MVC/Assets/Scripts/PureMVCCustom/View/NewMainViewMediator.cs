@@ -36,5 +36,14 @@ namespace PureMVCCustom.View
         {
             base.OnRegister();
         }
+
+        public void SetView(NewMainView newMainView)
+        {
+            ViewComponent = newMainView;
+            newMainView.btnRole.onClick.AddListener(() =>
+            {
+                GameFacade.Instance.SendNotification(PureNotification.SHOW_PANEL, "RolePanel");
+            });
+        }
     }
 }
