@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace Editor.Lesson4_EditorGUILayout_文本_层级_标签_颜色
+namespace Editor.Lesson4_EditorGUILayout_文本_层级_标签_颜色控件
 {
     public class Lesson4 : EditorWindow
     {

@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace Editor.Lesson5_EditorGUILayout_枚举选择_整数选择_按下触发按钮
+namespace Editor.Lesson5_EditorGUILayout_枚举选择_整数选择_按下触发按钮控件
 {
     public class Lesson5 : EditorWindow
     {
