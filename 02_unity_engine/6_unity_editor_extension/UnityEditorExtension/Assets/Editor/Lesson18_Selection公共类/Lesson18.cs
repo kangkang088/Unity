@@ -1,8 +1,7 @@
-using System;
 using UnityEditor;
 using UnityEngine;
 
-namespace Editor.Lesson18_Selection
+namespace Editor.Lesson18_Selection公共类
 {
     public class Lesson18 : EditorWindow
     {

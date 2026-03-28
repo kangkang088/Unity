@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace Editor.Lesson12_EditorGUIUtility
+namespace Editor.Lesson12_EditorGUIUtility公共类
 {
     public class Lesson12 : EditorWindow
     {
