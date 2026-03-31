@@ -7,7 +7,7 @@ public class {0}Base : MonoBehaviour
     //自动生成的控件声明
     {1}
 
-    void Start()
+    protected virtual void Start()
     {{
         //自动生成的找到对应的控件
         {2}
@@ -18,5 +18,4 @@ public class {0}Base : MonoBehaviour
 
     //自动生成的对应进行监听事件的响应函数
     {4}
-
 }}
