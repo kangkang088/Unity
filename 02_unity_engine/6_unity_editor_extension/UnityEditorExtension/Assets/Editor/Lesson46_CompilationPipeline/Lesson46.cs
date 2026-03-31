@@ -1,4 +1,3 @@
-using System;
 using UnityEditor;
 using UnityEditor.Compilation;
 using UnityEngine;
@@ -14,7 +13,7 @@ namespace Editor.Lesson46_CompilationPipeline
             window.titleContent = new GUIContent("CompilationPipeline Introduce Window");
             window.Show();
         }
-        
+
         private void OnEnable()
         {
             // 一个程序集编译完成后调用
