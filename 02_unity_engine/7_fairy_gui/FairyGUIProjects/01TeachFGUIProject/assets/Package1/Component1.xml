@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <text id="n0_i4u6" name="n0" xy="90,96" size="142,42" fontSize="30" color="#ffffff" autoSize="none" text="恶趣味"/>
+  </displayList>
+</component>

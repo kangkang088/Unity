@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1365,768" pivot="0.5,0.5" anchor="true" initName="123">
+  <displayList>
+    <image id="n2_i4u6" name="n2" src="i4u6g7" fileName="ArtRes/示意图/服务器选择2.jpg" xy="0,0"/>
+  </displayList>
+</component>

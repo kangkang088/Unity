@@ -1,0 +1,14 @@
+{
+  "scaleMode": "ScaleWithScreenSize",
+  "screenMathMode": "MatchWidthOrHeight",
+  "designResolutionX": 1365,
+  "designResolutionY": 768,
+  "devices": [
+    {
+      "name": "KangKangPhone",
+      "resolutionX": 1000,
+      "resolutionY": 500
+    }
+  ],
+  "fileName": "Adaptation"
+}

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="nmaugu4v">
+  <resources>
+    <component id="10esg0" name="Component1.xml" path="/" exported="true"/>
+    <sound id="i4u6g1" name="btnMusic.mp3" path="/ArtRes/"/>
+    <image id="i4u6g2" name="quanlity_1.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6g3" name="quanlity_0.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6g4" name="bk.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6g5" name="账号登陆.jpg" path="/ArtRes/示意图/"/>
+    <image id="i4u6g6" name="账号注册.jpg" path="/ArtRes/示意图/"/>
+    <image id="i4u6g7" name="服务器选择2.jpg" path="/ArtRes/示意图/"/>
+    <image id="i4u6g8" name="quanlity_2.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6g9" name="服务器选择.jpg" path="/ArtRes/示意图/"/>
+    <image id="i4u6ga" name="ui_TY_xuanzekuang_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6gb" name="ui_TY_gouxuan_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6gc" name="ui_DL_zhuangshi_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6gd" name="ui_DL_xuanzefuwuqi_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6ge" name="ui_DL_weihu_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6gf" name="ui_DL_shangcidenglu_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6gg" name="提示.jpg" path="/ArtRes/示意图/"/>
+    <image id="i4u6gh" name="ui_DL_new_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6gi" name="quanlity_3.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6gj" name="quanlity_5.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6gk" name="ui_TY_lvseshuzi_07.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6gl" name="ui_TY_lvseshuzi_06.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6gm" name="ui_TY_lvseshuzi_05.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6gn" name="ui_TY_lvseshuzi_04.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6go" name="ui_TY_lvseshuzi_03.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6gp" name="ui_TY_lvseshuzi_02.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6gq" name="quanlity_4.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6gr" name="ui_TY_lvseshuzi_01.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6gs" name="ui_TY_juesemignzidi_01.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6gt" name="ui_TY_fanhui_01.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6gu" name="ui_TY_erjikuang_01.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6gv" name="ui_TY_di_shensebj_01.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6gw" name="ui_TY_daojudiban_01.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6gx" name="ui_TY_biaotilan_01.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6gy" name="ui_TY_lvseshuzi_00.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6gz" name="ui_DL_liuchang_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6h0" name="ui_DL_kuang_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6h1" name="ui_DL_jinruyouxi_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6h2" name="2.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6h3" name="19.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6h4" name="18.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6h5" name="17.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6h6" name="16.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6h7" name="15.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6h8" name="20.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6h9" name="14.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6ha" name="12.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6hb" name="11.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6hc" name="10.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6hd" name="1.png" path="/ArtRes/序列帧动画/"/>
+    <font id="i4u6he" name="STHUPO.TTF" path="/ArtRes/" renderMode="" samplePointSize="16"/>
+    <movieclip id="i4u6hf" name="ImgGif.jta" path="/ArtRes/"/>
+    <image id="i4u6hg" name="13.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6hh" name="3.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6hi" name="4.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6hj" name="5.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6hk" name="ui_DL_huobao_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6hl" name="ui_DL_fuwuqixuanze_02.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6hm" name="ui_DL_fuwuqixuanze_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6hn" name="ui_DL_fuwuqiliebiao_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6ho" name="ui_DL_fanhua_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6hp" name="ui_DL_dianjihuanqu_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6hq" name="ui_DL_an_zhuce_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6hr" name="ui_DL_an_quxiao_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6hs" name="ui_DL_an_queding_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6ht" name="ui_DL_anniuxiao_01.png" path="/ArtRes/登录注册/登录注册/"/>
+    <image id="i4u6hu" name="BK.jpg" path="/ArtRes/登录注册/"/>
+    <image id="i4u6hv" name="9.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6hw" name="8.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6hx" name="7.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6hy" name="6.png" path="/ArtRes/序列帧动画/"/>
+    <image id="i4u6hz" name="ui_TY_lvseshuzi_08.png" path="/ArtRes/通用资源/"/>
+    <image id="i4u6i0" name="ui_TY_lvseshuzi_09.png" path="/ArtRes/通用资源/"/>
+    <component id="i4u6i1" name="TeachPanel.xml" path="/"/>
+    <component id="i4u6i2" name="TeachPanel2.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

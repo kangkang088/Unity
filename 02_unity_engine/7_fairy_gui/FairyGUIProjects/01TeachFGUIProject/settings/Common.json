@@ -1,0 +1,25 @@
+{
+  "font": "ui://nmaugu4vi4u6he",
+  "fontSize": 24,
+  "textColor": "#ffffff",
+  "fontAdjustment": false,
+  "colorScheme": [
+    "自定义颜色 #FF0000"
+  ],
+  "fontSizeScheme": [
+    "自定义字体大小 30"
+  ],
+  "fontScheme": [
+    "默认字体"
+  ],
+  "scrollBars": {
+    "horizontal": "",
+    "vertical": "",
+    "defaultDisplay": "visible"
+  },
+  "tipsRes": "",
+  "buttonClickSound": "ui://nmaugu4vi4u6g1",
+  "pivot": "default",
+  "listClearOnPublish": false,
+  "fileName": "Common"
+}
