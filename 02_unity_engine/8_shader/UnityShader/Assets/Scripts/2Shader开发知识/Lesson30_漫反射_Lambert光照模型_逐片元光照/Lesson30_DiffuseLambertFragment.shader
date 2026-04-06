@@ -1,4 +1,4 @@
-﻿Shader "TeachShader/Lesson29_LambertVertex"
+﻿Shader "TeachShader/Lesson30_DiffuseLambertFragment"
 {
     Properties
     {
@@ -24,29 +24,24 @@
 
             struct v2f
             {
-                float4 pos : SV_POSITION;
-                fixed3 color : COLOR;
+                float4 vertext : SV_POSITION;
+                float3 normal : NORMAL;
             };
 
             v2f vert(appdata_base v)
             {
-                float3 normal = UnityObjectToWorldNormal(v.normal);
-                float3 ligth_pos = normalize(_WorldSpaceLightPos0.xyz);
-
                 v2f data;
-                data.pos = UnityObjectToClipPos(v.vertex);
-
-                fixed3 color = _LightColor0.rgb * _MainColor.rgb * max(0, dot(normal, ligth_pos));
-                data.color = color + UNITY_LIGHTMODEL_AMBIENT.rgb;
-
+                data.vertext = UnityObjectToClipPos(v.vertex);
+                data.normal = v.normal;
                 return data;
             }
 
             fixed4 frag(v2f data) : SV_Target
             {
-                fixed4 color = fixed4(data.color, 1);
-
-                return color;
+                fixed3 color = _LightColor0.rgb * _MainColor.rgb * max(
+                    0, dot(normalize(data.normal), normalize(_WorldSpaceLightPos0)));
+                color += UNITY_LIGHTMODEL_AMBIENT.rgb;
+                return fixed4(color, 1);
             }
             ENDCG
         }

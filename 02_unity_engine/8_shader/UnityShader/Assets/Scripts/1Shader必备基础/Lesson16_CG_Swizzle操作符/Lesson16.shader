@@ -63,7 +63,7 @@
                     f4,
                     f4,
                     fixed4(f2, f2),
-                    fixed4(f3.xy, f3.zw)
+                    fixed4(f2, f2)
                 };
 
                 f = f44[0][0];
