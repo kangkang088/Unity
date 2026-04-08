@@ -160,5 +160,40 @@ Shader "TeachShader/Lesson64_ForwardLighting"
             }
             ENDCG
         }
+
+        Pass
+        {
+            Tags
+            {
+                "LightMode"="ShadowCaster"
+            }
+
+            CGPROGRAM
+            #pragma multi_compile_shadowcaster
+            #pragma vertex vert
+            #pragma fragment frag
+
+            #include "UnityCG.cginc"
+
+            struct v2f
+            {
+                V2F_SHADOW_CASTER;
+            };
+
+            v2f vert(appdata_base v)
+            {
+                v2f data;
+                TRANSFER_SHADOW_CASTER_NORMALOFFSET(data);
+                return data;
+            }
+
+            float4 frag(v2f data) : SV_Target
+            {
+                SHADOW_CASTER_FRAGMENT(data);
+            }
+            ENDCG
+        }
     }
+
+    //    Fallback "Legacy Shaders/Specular"
 }
